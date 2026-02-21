@@ -52,3 +52,6 @@ Update the `config.py` file with the following settings:
 
 ## License
 This project is licensed under the MIT License.
+
+## Note
+This is a demonstration project for learning purposes.
