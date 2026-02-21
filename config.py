@@ -1,0 +1,7 @@
+CRYPTO_ID = "bitcoin"
+CURRENCY = "usd"
+
+UPPER_THRESHOLD = 70000
+LOWER_THRESHOLD = 60000
+
+LOG_FILE = "price_log.csv"
